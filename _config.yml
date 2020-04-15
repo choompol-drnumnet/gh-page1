@@ -14,9 +14,9 @@ description              : "อธิบาย"
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "ชื่อ๒"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "ฉันเป็นใคร"
   location         : "Somewhere"
   email            :
   links:
@@ -112,12 +112,13 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : ChoompolB
 facebook:
-  username               :
+  username               : choompol@drnum.net
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
+
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -131,8 +132,6 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
-
-
 
 # Reading Files
 include:
@@ -257,7 +256,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
 
 # Defaults
 defaults:
