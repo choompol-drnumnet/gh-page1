@@ -39,6 +39,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+search                   : true # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+
 # Site Footer
 footer:
   links:
