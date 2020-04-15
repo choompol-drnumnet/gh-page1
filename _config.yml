@@ -272,4 +272,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages" # not same as posts above
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
